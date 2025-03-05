@@ -1,0 +1,5 @@
+outs:
+- md5: 3e942e9caa9ad11c6d9574fdd659ae9e
+  size: 667679
+  isexec: true
+  path: adult.csv.zip
